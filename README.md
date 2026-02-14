@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thevarasa Dayastan 👋</h1>
+<h1 align="center">Hi, I'm Kanesharaja Amillthan 👋</h1>
 <h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
